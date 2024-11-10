@@ -1,0 +1,9 @@
+.focused{
+	outline: 0 !important;
+    box-shadow: 0 0 0 0.2rem #0e000040 !important;
+}
+
+.errorlist li{
+	color: red;
+}
+
